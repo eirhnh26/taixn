@@ -1,0 +1,20 @@
+  /* Style the menu container */
+  #menu {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+
+  /* Style the menu items */
+  .menu-item {
+    float: left;
+    margin-right: 20px;
+  }
+
+  /* Clear the floats after the menu */
+  #menu:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  

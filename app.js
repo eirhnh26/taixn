@@ -1,0 +1,5 @@
+// Biography content
+const bio = `Annie Ernaux is a French writer and memoirist known for her raw and personal accounts of her life and the world around her. Born in 1940 in a small town called Lileul-Eglise, Ernaux grew up in a working-class family and experienced firsthand the political and social turmoil of 20th century France. After completing her studies, she began a career as a high school teacher, but eventually turned to writing full-time. Her books have been translated into several languages and have won numerous awards. she has written a number of novels and essays, her themes often focus on the representation of memory and emotion, the social and cultural changes in her country, the ordinary experiences, the daily lives of women, and the relationship between individual and society.  Ernaux was awarded the 2022 Nobel Prize in Literature "for the courage and clinical acuity with which she uncovers the roots, estrangements and collective restraints of personal memory".`;
+
+// Display the bio
+document.getElementById('biography').innerHTML = bio;
